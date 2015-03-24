@@ -25,7 +25,7 @@
     <dependency>
       <groupId>com.atlassian.confluence</groupId>
       <artifactId>confluence</artifactId>
-      <version>${confluence.version}</version>
+ Yaniv New Code     <version>${confluence.version}</version>
       <scope>provided</scope>
     </dependency>
     <!-- WIRED TEST RUNNER DEPENDENCIES -->
